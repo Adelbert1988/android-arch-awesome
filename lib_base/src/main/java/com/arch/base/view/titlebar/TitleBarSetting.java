@@ -1,8 +1,8 @@
-package com.guadou.lib_baselib.view.titlebar;
+package com.arch.base.view.titlebar;
 
 import android.graphics.Color;
 
-import com.guadou.basiclib.R;
+import com.example.lib_base.R;
 
 
 /**

@@ -1,4 +1,4 @@
-package com.guadou.lib_baselib.view.gloading;
+package com.arch.base.view.gloading;
 
 import android.app.Activity;
 import android.content.Context;

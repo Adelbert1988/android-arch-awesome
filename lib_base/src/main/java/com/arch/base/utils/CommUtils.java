@@ -1,4 +1,4 @@
-package com.guadou.lib_baselib.utils;
+package com.arch.base.utils;
 
 import android.app.Application;
 import android.content.Context;
@@ -12,8 +12,6 @@ import android.widget.Toast;
 
 import androidx.core.content.ContextCompat;
 
-import com.google.android.material.snackbar.Snackbar;
-import com.guadou.basiclib.R;
 
 
 public class CommUtils {

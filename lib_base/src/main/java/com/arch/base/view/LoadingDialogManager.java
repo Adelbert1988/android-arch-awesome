@@ -1,4 +1,4 @@
-package com.guadou.lib_baselib.view;
+package com.arch.base.view;
 
 import android.app.Activity;
 import android.app.Dialog;
@@ -6,7 +6,7 @@ import android.content.DialogInterface;
 import android.view.LayoutInflater;
 import android.view.View;
 
-import com.guadou.basiclib.R;
+import com.example.lib_base.R;
 
 
 /**

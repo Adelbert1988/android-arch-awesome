@@ -1,9 +1,10 @@
-package com.guadou.lib_baselib.view.gloading;
+package com.arch.base.view.gloading;
 
 import android.view.View;
 
-import static com.guadou.lib_baselib.view.gloading.GloadingGlobalStatusView.HIDE_LOADING_STATUS_MSG;
-import static com.guadou.lib_baselib.view.gloading.GloadingGlobalStatusView.NEED_LOADING_STATUS_MAGRIN_TITLE;
+import static com.arch.base.view.gloading.GloadingGlobalStatusView.HIDE_LOADING_STATUS_MSG;
+import static com.guadou.lib_baselib.view.gloading.GloadingPlaceHolderView.NEED_LOADING_STATUS_MAGRIN_TITLE;
+
 
 /**
  * 默认的是上下跳动的加载动画

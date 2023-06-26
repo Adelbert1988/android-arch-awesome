@@ -1,4 +1,4 @@
-package com.guadou.lib_baselib.view.gloading;
+package com.arch.base.view.gloading;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -10,14 +10,15 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.guadou.basiclib.R;
+import com.example.lib_base.R;
 import com.guadou.lib_baselib.view.progress.jump.JumpLoadingView;
 
-import static com.guadou.lib_baselib.view.gloading.Gloading.STATUS_LOADING;
-import static com.guadou.lib_baselib.view.gloading.Gloading.STATUS_LOAD_SUCCESS;
-import static com.guadou.lib_baselib.view.gloading.Gloading.STATUS_LOAD_FAILED;
-import static com.guadou.lib_baselib.view.gloading.Gloading.STATUS_EMPTY_DATA;
-import static com.guadou.lib_baselib.view.gloading.Gloading.STATUS_NORMAL;
+import static com.arch.base.view.gloading.Gloading.STATUS_EMPTY_DATA;
+import static com.arch.base.view.gloading.Gloading.STATUS_LOADING;
+import static com.arch.base.view.gloading.Gloading.STATUS_LOAD_FAILED;
+import static com.arch.base.view.gloading.Gloading.STATUS_LOAD_SUCCESS;
+import static com.arch.base.view.gloading.Gloading.STATUS_NORMAL;
+
 
 /**
  * 默认的是上下跳动的加载动画

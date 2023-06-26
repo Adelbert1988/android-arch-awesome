@@ -1,4 +1,4 @@
-package com.guadou.lib_baselib.base.activity
+package com.arch.base.base.activity
 
 import android.os.Bundle
 import androidx.activity.viewModels
@@ -7,14 +7,13 @@ import androidx.databinding.DataBindingUtil
 import androidx.databinding.ViewDataBinding
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
-import com.arch.base.base.activity.AbsActivity
 import com.guadou.lib_baselib.base.vm.BaseViewModel
 import com.arch.base.bean.DataBindingConfig
 import com.arch.base.bean.LoadAction
+import com.arch.base.utils.NetWorkUtil
+import com.arch.base.view.LoadingDialogManager
+import com.arch.base.view.gloading.Gloading
 import com.guadou.lib_baselib.ext.getVMCls
-import com.guadou.lib_baselib.utils.NetWorkUtil
-import com.guadou.lib_baselib.view.LoadingDialogManager
-import com.guadou.lib_baselib.view.gloading.Gloading
 
 /**
  * 加入ViewModel与LoadState

@@ -1,7 +1,7 @@
 package com.arch.base.receiver;
 
 
-import com.guadou.lib_baselib.utils.NetWorkUtil;
+import com.arch.base.utils.NetWorkUtil;
 
 import java.lang.reflect.Method;
 

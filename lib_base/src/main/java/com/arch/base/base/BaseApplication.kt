@@ -7,7 +7,7 @@ import androidx.multidex.MultiDex
 import com.arch.base.receiver.ConnectivityReceiver
 import com.arch.base.utils.NetWorkUtil
 import com.google.gson.Gson
-import com.guadou.lib_baselib.core.BaseLibCore
+import com.arch.base.core.BaseLibCore
 
 /**
  * 基类的Application

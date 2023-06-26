@@ -1,4 +1,4 @@
-package com.guadou.lib_baselib.utils;
+package com.arch.base.utils;
 
 import android.app.Activity;
 import android.content.Context;
@@ -9,6 +9,9 @@ import android.view.ViewParent;
 import android.view.Window;
 import android.view.WindowManager;
 import android.widget.LinearLayout;
+
+import com.guadou.lib_baselib.utils.CommUtils;
+import com.guadou.lib_baselib.utils.DeviceUtils;
 
 import androidx.annotation.ColorInt;
 import androidx.annotation.FloatRange;

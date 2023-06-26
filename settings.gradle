@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "android-arch-awesome"
+//includeBuild("../VersionPlugin")
 include ':app'
 include ':lib_base'

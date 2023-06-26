@@ -9,9 +9,9 @@ import android.net.ConnectivityManager;
 
 import androidx.annotation.NonNull;
 
-import com.guadou.lib_baselib.annotation.NetWork;
+import com.arch.base.annotation.NetWork;
 import com.arch.base.base.BaseApplication;
-import com.guadou.lib_baselib.utils.NetWorkUtil;
+import com.arch.base.utils.NetWorkUtil;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;

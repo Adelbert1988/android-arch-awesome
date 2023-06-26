@@ -1,4 +1,4 @@
-package com.guadou.lib_baselib.view.titlebar;
+package com.arch.base.view.titlebar;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -24,12 +24,12 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
+import com.arch.base.utils.CommUtils;
+import com.arch.base.utils.ThreadPoolUtils;
+import com.example.lib_base.R;
+
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.constraintlayout.widget.ConstraintSet;
-
-import com.guadou.basiclib.R;
-import com.guadou.lib_baselib.utils.CommUtils;
-import com.guadou.lib_baselib.utils.ThreadPoolUtils;
 
 
 /**

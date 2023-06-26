@@ -1,4 +1,4 @@
-package com.guadou.lib_baselib.view.titlebar;
+package com.arch.base.view.titlebar;
 
 import android.content.Context;
 import android.view.View;

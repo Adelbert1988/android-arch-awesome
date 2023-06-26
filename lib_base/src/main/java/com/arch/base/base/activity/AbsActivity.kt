@@ -8,9 +8,9 @@ import android.content.res.Resources
 import android.graphics.Color
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.guadou.lib_baselib.receiver.ConnectivityReceiver
-import com.guadou.lib_baselib.utils.ActivityManage
-import com.guadou.lib_baselib.utils.StatusBarUtils
+import com.arch.base.receiver.ConnectivityReceiver
+import com.arch.base.utils.ActivityManage
+import com.arch.base.utils.StatusBarUtils
 
 /**
  * 最底层的Activity,不带MVP和MVVM,一般不用这个

@@ -1,7 +1,8 @@
 package com.arch.base.annotation;
 
 
-import com.guadou.lib_baselib.utils.NetWorkUtil;
+
+import com.arch.base.utils.NetWorkUtil;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

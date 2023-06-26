@@ -1,22 +1,22 @@
-package com.guadou.lib_baselib.core
+package com.arch.base.core
 
 import android.app.Application
 import android.graphics.Color
 import android.os.Environment
 import android.os.Handler
 import androidx.core.content.ContextCompat
-import com.guadou.basiclib.BuildConfig
-import com.guadou.basiclib.R
-import com.guadou.lib_baselib.receiver.ConnectivityReceiver
-import com.guadou.lib_baselib.utils.CommUtils
-import com.guadou.lib_baselib.utils.ThreadPoolUtils
+import com.arch.base.receiver.ConnectivityReceiver
+import com.arch.base.utils.CommUtils
+import com.arch.base.utils.ThreadPoolUtils
+import com.arch.base.view.gloading.Gloading
+import com.arch.base.view.gloading.GloadingGlobalAdapter
+import com.arch.base.view.titlebar.EasyTitleBar
+import com.example.lib_base.BuildConfig
+import com.example.lib_base.R
 import com.guadou.lib_baselib.utils.log.YYLogUtils
 import com.guadou.lib_baselib.utils.log.interceptor.Log2FileInterceptor
 import com.guadou.lib_baselib.utils.log.interceptor.LogDecorateInterceptor
 import com.guadou.lib_baselib.utils.log.interceptor.LogPrintInterceptor
-import com.guadou.lib_baselib.view.gloading.Gloading
-import com.guadou.lib_baselib.view.gloading.GloadingGlobalAdapter
-import com.guadou.lib_baselib.view.titlebar.EasyTitleBar
 import java.io.File
 
 /**
